@@ -1,5 +1,11 @@
 Tutorial for Autoencoder, which inludes: 
 
-1. Apply autoencoder on images
+1. Apply autoencoder on images, this section includes 3 parts:
+	
+	a. PART I: Visualize the autoencoder process
+
+	b. PART II: Using Autoencoder to encode images into 2 dimensions
+
+	c. PART III: Variational autoencoder
 
 2. Apply autoencoder on text 
